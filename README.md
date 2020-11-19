@@ -1,38 +1,33 @@
-## Probando 1, 2, 3
-## Welcome to GitHub Pages
+# Hola! Y bienvenido a este espacio
 
-You can use the [editor on GitHub](https://github.com/JairoIvanzho/Electiva-NLP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Soy Jairo Iván Ordóñez, fan de la obra maestra de Akira Toriyama: __Dragon Ball__, Ingeniero de Sistemas, apasionado por los datos y cómo generar valor mediante su visualización. Mi experiencia está basada en __Business Intelligence__ pero de a poco me estoy convirtiendo en un Científico de Datos, precisamente, este espacio lo diseñé para poder compartir todo lo que he aprendido durante el desarrollo de mi __Especialización en Analítica de Datos__ y poder mostrar mi potencial como futuro __Data Scientist__.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Proyectos
 
-### Markdown
+En esta sección, podrás encontrar los diferentes proyectos que he desarrollado a lo largo de la especialización que estoy cursando. Cada uno cumple con un objetivo en específico el cual se podrá detallar al dar clic en cada enlace:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. __Conteo de Palabras:__ Conectándonos a un _Archivo de texto delimitado por comas (CSV)_ se contó la cantidad de palabras de la casilla que almacenaba la opinión de los estudiantes y evidenciamos cuáles son las palabras que más se usaron en dicha casilla. Si te interesa saber, cómo contar palabras de un texto, puedes ingresar [auí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_1/Taller%201%20-%20NLP.ipynb)
 
-```markdown
-Syntax highlighted code block
+2. __Web Scrapping:__ En esta ocasión definimos un listado de Páginas web e hicimos web scrapping para extraer información específica de dichas páginas. Si te interesa extraer información de la web, dale clic sin miedo [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_2/Taller%202.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+3. __Pre-Procesamiento de Textos:__ Luego de aprender cómo adquirir textos, empezamos a hacer la limpieza de este. Para ello, utilizamos técnicas de estandarización y expresiones regulares con el fin de excluir las llamadas _stopwords__ y poder encontrar las verdaderas palabras más comunes de un texto. Si quieres saber qué técnicas de preprocesamiento utilicé, ingresa [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_3/Taller%203%20-%20Pre-Procesamiento%20de%20Textos.ipynb)
 
-- Bulleted
-- List
+4. __Bag of Words:__ Esto cada vez se vuelve más interesante; ya que aprendimos a preprocesar los datos, ahora creamos una función que consolidara todas las técnicas y retornara el resultado _"limpio"_; todo esto con el fin de empezar a crear nuestra _bolsa de palabras_ el cual nos ayudará en los siguientes proyectos. Si quieres saber sobre cómo crear un BoW, entra [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_4/Taller%204%20-%20Feature%20Engineering.ipynb)
 
-1. Numbered
-2. List
+5. __TF-IDF:__ Nos basamos en la descripción de las princesas Disney para poder identificar qué tan parecidas pueden llegar a ser cada una de las demás. Utilizamos la técnica de TF-IDF para vectorizar cada una de las palabras de la descripción de cada princesa y poder darle un peso, posteriormente calculamos la distancia del coseno para así identificar qué tan _diferentes_ son las princesas Disney. Si te mueres de la curiosidad por saber el resultado, ingresa [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_5/Taller%205%20-%20TFIDF.ipynb)
 
-**Bold** and _Italic_ and `Code` text
+6. __Word2Vec:__ Para esta ocasión, utilizamos reseñas de clientes que se hospedaron en diferentes hoteles y empezamos a analizar qué tan parecidas son las palabras usadas por los huéspedes, luego utilizamos esa vectorización para desplegarlo en un plano cartesiano y así ver la distribución de las palabras. Entre más alejadas significa que tienen menor relación y viceversa. Si te interesa, puedes dar clic [aquí](https://nbviewer.jupyter.org/github/JairoIvanzho/Electiva-NLP/blob/master/Taller_6/Taller%206%20-%20Word2Vec.ipynb)
 
-[Link](url) and ![Image](src)
-```
+7. __Modelado de Clasificación y Agrupación:__ Aquellos que apenas estamos incursionando en este mundo de la ciencia de datos, queremos crear, entrenar y probar modelos con nuestros datos. Bueno, pues llegó el momento y me percaté que, de nada sirve tener los megamodelos entrenados si todo lo realizado anteriormente no se hizo con el mayor de los detalles. Para este punto, decidimos crear diferentes modelos que nos permitieran clasificar los registros (Supervisado) y otro donde, automáticamente el modelo identificara la cantidad de grupos que existía basado en algunos comentarios. Si quieres ver los modelos utilizados, el proceso de entrenamiento, prueba y el resultado obtenido, te invito a que ingreses [aquí](https://nbviewer.jupyter.org/github/JairoIvanzho/Electiva-NLP/blob/master/Taller_7/Taller%207%20-%20ClassificationKMeans.ipynb)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+8. __Modelado de Temas:__ Luego de aprender que podemos crear modelos basados en textos cortos, decidimos mostrar un poco más de detalle visual sobre los temas que el modelo "eligió" basado en las palabras usadas. La visualización nos permite hacer análisis rápidos y sacar conclusiones en cuestión de segundos. Te invito a ver este proceso dando clic [aquí](https://nbviewer.jupyter.org/github/JairoIvanzho/Electiva-NLP/blob/master/Taller_8/Taller%208%20-%20Modelado%20de%20Temas.ipynb#topic=0&lambda=1&term=)
 
-### Jekyll Themes
+9. __Nube de Palabras:__ Para este proyecto, utilizamos las cartas que el CEO de una multinacional de telecomunicaciones, envía mensualmente a sus colaboradores y lo convertimos en una nube de palabras con el fin de identificar cuáles son las palabras más usadas en sus cartas. El resultado fue más que interesante, por lo que te invito a verlo dando clic [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_9/Taller_9.ipynb) 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JairoIvanzho/Electiva-NLP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+10. __Extracción de Datos de Twitter:__ Utilizando la API de Twitter, descargamos datos sobre los comentarios que estaban realizando los usuarios sobre la penúltima etapa de #LaVuelta (Una de las carreras más importantes del ciclismo profesional que se realiza en España). Esa era la etapa reina del evento, por lo que la cantidad de tweets generados eran lo suficiente como para analizarlo. Si te gusta el ciclismo y el análisis de datos, date el gusto de pasar por [aquí](https://nbviewer.jupyter.org/github/JairoIvanzho/Electiva-NLP/blob/master/Taller_10/Taller_10%20Twitter%20Scrapping%20-%20La%20Vuelta%20a%20Espa%C3%B1a.ipynb)
 
-### Support or Contact
+11. __Análisis de Sentimiento en Twitter:__ Nuevamente utilizando la API de Twitter descargamos datos sobre una tendencia en Colombia para analizar los comentarios de las personas. En ese momento sacamos tweets que hablaban sobre la tendencia #BuenaPapa el cual consistía en apoyar a los papicultores que están pasando por un momento difícil dado que con los diferentes tratados de libre comercio con los demás países, los campesinos ven afectada su economía. El movimiento buscaba que las personas que viajaban por el territorio nacional, se detuvieran a comprar papa directamente a los campesinos que con un esfuerzo inmenso, llevaban su preciado producto a la orilla de la carretera. Quisimos analizar los sentimientos de estost tweets para conocer qué tan a favor o en contra estaban los usuarios de twitter sobre este movimiento y gratificantemente identificamos que eran más los comentarios positivos que los negativos. Creamos una nube de palabras para visualizar las palabras más usadas en los tweets positivos y negativos, si quieres conocer este proyecto, puedes dar clic [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_11/Taller%2011%20-%20Sentimiento.ipynb)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Si llegaste hasta aquí, es porque te interesaron mis proyectos y te lo agradezco.
+
+Si quieres que sea tu futuro __Data Scientist Rockstar__ puedes contactarme mediante [LinkedIN](https://www.linkedin.com/in/jairoivanzho/) (Ahí podrás ver mi rostro :P)
