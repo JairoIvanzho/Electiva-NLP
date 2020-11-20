@@ -6,11 +6,11 @@ Soy Jairo Iván Ordóñez, fan de la obra maestra de Akira Toriyama: __Dragon Ba
 
 En esta sección, podrás encontrar los diferentes proyectos que he desarrollado a lo largo de la especialización que estoy cursando. Cada uno cumple con un objetivo en específico el cual se podrá detallar al dar clic en cada enlace:
 
-1. __Conteo de Palabras:__ Conectándonos a un _Archivo de texto delimitado por comas (CSV)_ se contó la cantidad de palabras de la casilla que almacenaba la opinión de los estudiantes y evidenciamos cuáles son las palabras que más se usaron en dicha casilla. Si te interesa saber, cómo contar palabras de un texto, puedes ingresar [auí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_1/Taller%201%20-%20NLP.ipynb)
+1. __Conteo de Palabras:__ Conectándonos a un _Archivo de texto delimitado por comas (CSV)_ se contó la cantidad de palabras de la casilla que almacenaba la opinión de los estudiantes y evidenciamos cuáles son las palabras que más se usaron en dicha casilla. Si te interesa saber, cómo contar palabras de un texto, puedes ingresar [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_1/Taller%201%20-%20NLP.ipynb)
 
 2. __Web Scrapping:__ En esta ocasión definimos un listado de Páginas web e hicimos web scrapping para extraer información específica de dichas páginas. Si te interesa extraer información de la web, dale clic sin miedo [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_2/Taller%202.ipynb)
 
-3. __Pre-Procesamiento de Textos:__ Luego de aprender cómo adquirir textos, empezamos a hacer la limpieza de este. Para ello, utilizamos técnicas de estandarización y expresiones regulares con el fin de excluir las llamadas _stopwords__ y poder encontrar las verdaderas palabras más comunes de un texto. Si quieres saber qué técnicas de preprocesamiento utilicé, ingresa [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_3/Taller%203%20-%20Pre-Procesamiento%20de%20Textos.ipynb)
+3. __Pre-Procesamiento de Textos:__ Luego de aprender cómo adquirir textos, empezamos a hacer la limpieza de este. Para ello, utilizamos técnicas de estandarización y expresiones regulares con el fin de excluir las llamadas _stopwords_ y poder encontrar las verdaderas palabras más comunes de un texto. Si quieres saber qué técnicas de preprocesamiento utilicé, ingresa [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_3/Taller%203%20-%20Pre-Procesamiento%20de%20Textos.ipynb)
 
 4. __Bag of Words:__ Esto cada vez se vuelve más interesante; ya que aprendimos a preprocesar los datos, ahora creamos una función que consolidara todas las técnicas y retornara el resultado _"limpio"_; todo esto con el fin de empezar a crear nuestra _bolsa de palabras_ el cual nos ayudará en los siguientes proyectos. Si quieres saber sobre cómo crear un BoW, entra [aquí](https://github.com/JairoIvanzho/Electiva-NLP/blob/master/Taller_4/Taller%204%20-%20Feature%20Engineering.ipynb)
 
@@ -30,4 +30,4 @@ En esta sección, podrás encontrar los diferentes proyectos que he desarrollado
 
 Si llegaste hasta aquí, es porque te interesaron mis proyectos y te lo agradezco.
 
-Si quieres que sea tu futuro __Data Scientist Rockstar__ puedes contactarme mediante [LinkedIN](https://www.linkedin.com/in/jairoivanzho/) (Ahí podrás ver mi rostro :P)
+Si quieres que sea tu futuro __Rockstar Data Scientist__ puedes contactarme mediante [LinkedIn](https://www.linkedin.com/in/jairoivanzho/) (Ahí podrás ver mi rostro :P)
